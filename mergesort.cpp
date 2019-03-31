@@ -1,3 +1,9 @@
+Merge sort Algorithm implementation.......
+     Here we can sort 3 types list. such as
+     1.randomly unsorted list
+     2.Semi unsorted list
+     2.Reverse list
+
 #include <iostream>
 #include<cstdlib>
 #include<ctime>
